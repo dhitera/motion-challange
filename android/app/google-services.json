@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006924619313",
+    "project_id": "motion-challange",
+    "storage_bucket": "motion-challange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006924619313:android:69a390c3c3188742113f10",
+        "android_client_info": {
+          "package_name": "com.example.mradithyan_motionintern_challange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx5nijiB5U-vVJ64CZVmTzsCbLb3wdkQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
